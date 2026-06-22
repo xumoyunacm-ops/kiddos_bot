@@ -1,3 +1,7 @@
+import os
+
+BOT_TOKEN = "8868462463:AAE3whoXo02aauhwMbV_9ya1DWWiYE65VX8"      # 
+GROUP_CHAT_ID = -5511435642               #
 # -*- coding: utf-8 -*-
 """
 Kiddos Showroom — бот подтверждения визитов.
